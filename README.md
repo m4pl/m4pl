@@ -6,7 +6,7 @@ I'm [Matthew Plokhov](https://t.me/maplll), an Android developer at [MTS](https:
 ### 🛸 About me
 - <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="16"/> Living in <b>Moscow, Russia</b>
 - 📖 Developing **Open-Source** projects on [GitHub](https://github.com/m4pl?tab=repositories)
-- 🎶 I love music 🎻
+- 🎻 I love music
 - ✈️ Open to new opportunities
 - 🤗 Outgoing
 
