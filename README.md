@@ -28,7 +28,6 @@ I'm [Matthew Plokhov](https://t.me/maplll), an Android developer at [MTS](https:
 ### 📈 GitHub Stats
 
 [![M4pl's github stats](https://github-readme-stats.vercel.app/api?username=m4pl&line_height=21&include_all_commits=true&title_color=00A7E1&text_color=FFFFFF&bg_color=45,00171F,00171F&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4pl&layout=compact&title_color=00A7E1&text_color=FFFFFF&bg_color=45,00171F,00171F&hide_border=true&exclude_repo=Introduction-to-Linux-with-integration-of-Microsoft-technologies,HSE-Summer-School-2019)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">You can find me on <a href="https://t.me/maplll"><img src="https://telegram.org/img/t_logo.svg?1" width="16"/></a>, or on <a
