@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1629158834/48671/android-eyes.gif?1629158834" width="30"/> Hello there</h1>
 
 Welcome to my page!</br>
-I'm [Matthew Plokhov](https://t.me/maplll), an Android developer at [MTS](https://mts.ru).
+I'm [Matthew Plokhov](https://t.me/maplll), an Android developer at [Avito](https://www.avito.ru/).
 
 ### 🛸 About me
 - <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="16"/> Living in <b>Moscow, Russia</b>
