@@ -33,7 +33,7 @@ I'm [Matthew Plokhov](https://t.me/maplll), an Android developer at [Avito](http
 ------------
 
 <p align="center">You can find me on <a href="https://t.me/maplll"><img src="https://telegram.org/img/t_logo.svg?1" width="16"/></a>, or on <a
-        href="https://www.linkedin.com/in/matvey-plokhov-27710b197/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="16"/></a>.</p>
+        href="https://www.linkedin.com/in/matvey-plokhov/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="16"/></a>.</p>
 
 <p align="center"><a href="https://open.spotify.com/user/je9nfypi6srlzgu519zucuk2x?si=XHpAOQ1cRbSjuF58hdNUrA&utm_source=copy-link&dl_branch=1"><img
         src="https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=00d859"/></a> <img
